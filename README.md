@@ -50,3 +50,4 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 
 Tutor: [Rodrigo Peleias]
 
+* [Deploy rodando no Heroku.](https://peopleapi-master2.herokuapp.com/api/v1/people)
